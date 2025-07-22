@@ -21,7 +21,7 @@ This is a CLI-based C# game that simulates non-transitive dice play between a us
 
 ## 📸 Demo Video
 
-▶️ Watch the demo: (https://youtu.be/snSrPxtoYrk)
+▶️ Watch the demo: (https://youtu.be/96nS8OD2Vmg)
 
 ---
 
